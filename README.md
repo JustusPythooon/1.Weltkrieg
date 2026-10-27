@@ -1,4 +1,4 @@
-# Projekt ZEITRISS v9
+# Projekt ZEITRISS v10.1
 
 Interaktive Lern- und Simulations-App zum Ersten Weltkrieg für die 9. Klasse.
 
@@ -7,7 +7,7 @@ Interaktive Lern- und Simulations-App zum Ersten Weltkrieg für die 9. Klasse.
 - Kriegssimulation 1914–1918
 - Escape-Room mit 3 Räumen, 6 Beweisen und 6 Akten
 - verpflichtender Spielername
-- lokale Bestenliste
+- eigene lokale Bestenlisten-Seite mit Modusfilter, Rekorden und Namensverwaltung
 - Quiz, Europakarte, Quellenanalyse, Nachrichtenticker und Codes
 - XP, Ränge und Abzeichen
 
